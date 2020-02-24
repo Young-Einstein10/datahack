@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/datahackathon/static/css/main.39f33db0.chunk.css",
+    "main.js": "/datahackathon/static/js/main.fcb25b69.chunk.js",
+    "main.js.map": "/datahackathon/static/js/main.fcb25b69.chunk.js.map",
+    "runtime-main.js": "/datahackathon/static/js/runtime-main.0cbc6ce9.js",
+    "runtime-main.js.map": "/datahackathon/static/js/runtime-main.0cbc6ce9.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/datahackathon/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.fa25968e.chunk.js": "/datahackathon/static/js/2.fa25968e.chunk.js",
+    "static/js/2.fa25968e.chunk.js.map": "/datahackathon/static/js/2.fa25968e.chunk.js.map",
+    "index.html": "/datahackathon/index.html",
+    "precache-manifest.6cb99253aa3e3f108ef50bad67f198d7.js": "/datahackathon/precache-manifest.6cb99253aa3e3f108ef50bad67f198d7.js",
+    "service-worker.js": "/datahackathon/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/datahackathon/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.39f33db0.chunk.css.map": "/datahackathon/static/css/main.39f33db0.chunk.css.map",
+    "static/js/2.fa25968e.chunk.js.LICENSE.txt": "/datahackathon/static/js/2.fa25968e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cbc6ce9.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.fa25968e.chunk.js",
+    "static/css/main.39f33db0.chunk.css",
+    "static/js/main.fcb25b69.chunk.js"
+  ]
+}
